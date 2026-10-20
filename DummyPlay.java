@@ -1,7 +1,7 @@
 public class DummyPlay {
     public static void main(String[] args) {
-        String username = "alice";
-        int score = 42;
+        String username = "bob";
+        int score = 322;
 
         System.out.println("Bienvenue dans le lab Java !");
         System.out.println("Utilisatrice : " + username);
